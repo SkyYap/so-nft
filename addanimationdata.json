@@ -1,0 +1,1002 @@
+{
+  "0": {
+    "name": "$CHICKEN MAN #00001",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "1778c70f33e91288e8cc32010e9645dd95a0937fa36bfd5e92da93fb6e6b3e7f",
+    "metadata_link": "https://arweave.net/EG2UzAa8iGRfxMwkJ50rwTY2A9z9STf5DkbS9LzCdko",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "1": {
+    "name": "$CHICKEN MAN #00002",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "8fa4ae61bc95c44d2e99ddb0a8203f036b3918a831cfff77f3d06d5c2ac15378",
+    "metadata_link": "https://arweave.net/8eBbfB0pjsY5yRPXVhdAnSVI1EkP2XrexChdOLaxHCU",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "2": {
+    "name": "$CHICKEN MAN #00003",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "879b8b0eba32240b87b3c16534c89ad64af6843ee97983583f8576b5a536a5ca",
+    "metadata_link": "https://arweave.net/08lVJfFTeSZ6j7ybNYpRUpZv1RywthUeB3wV4qqBlbI",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "3": {
+    "name": "$CHICKEN MAN #00004",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "d87ff21d9ec64a023bdcf21d04cb220934d99f30d2ff3d4ca789ee7dcbb97e12",
+    "metadata_link": "https://arweave.net/QDziEagqLmRuqWsGIGnSFReo4Lsw9GLxD_gPwQrewwU",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "4": {
+    "name": "$CHICKEN MAN #00005",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "a80d8f113b653cab1085bd4f2a35645e7bb9a35ce815f483f2dee25528b5bfdc",
+    "metadata_link": "https://arweave.net/L6q42WyKzhdwXQwlREl4F4hy-z6aMj8Lrmcre4ln9Mg",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "5": {
+    "name": "$CHICKEN MAN #00006",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "230291677cfdfdd253edbf852fbeabb930cffa8f03d76958f6bbb9092c555f58",
+    "metadata_link": "https://arweave.net/wfsoQlsu3QWy9pqPuo4AW31n72zgl3-troU2hH6M4ow",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "6": {
+    "name": "$CHICKEN MAN #00007",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "f413f7f7ce08e9233dfffa281fa114006198c7316233583793edac7e9f3893f8",
+    "metadata_link": "https://arweave.net/nHwqCO2OqgnLAffngPF_0Dglf3zkfEAxMoajlJmDgT4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "7": {
+    "name": "$CHICKEN MAN #00008",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "a94e2a24f8246b77a446a02086458e15e68ff364b76ab0a83fbf98fcb0b43257",
+    "metadata_link": "https://arweave.net/LLcUAKIZBKbpg0pStHlYo_U04StdHs-Ki7ZUgISfJ-Y",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "8": {
+    "name": "$CHICKEN MAN #00009",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "ce1dc97fa924dedf71aded768933948637f5e13611d1e11b5f868750f755f77a",
+    "metadata_link": "https://arweave.net/Mo9ROUeIDWFldnBf2E9A5b2NLHCtIJl8uBO5Ghb7Ung",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "9": {
+    "name": "$CHICKEN MAN #00010",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e3fd67d0c80ba79f4545c559b83b93d5f4bd879bc6ea518cdaaf24473d3209e3",
+    "metadata_link": "https://arweave.net/ZwI9FgHvRnpydinQdeWEfKJTWUVIAnp_Qsh0ziWFAmM",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "10": {
+    "name": "$CHICKEN MAN #00011",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "91c7df42376595e8302fae489b6dabd3e7f1ed50c9afe4c80b39502bba406e49",
+    "metadata_link": "https://arweave.net/agfjE7-Jz_x3fisU6bJP053NoROS2-HQpT0tKzHF8Uw",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "11": {
+    "name": "$CHICKEN MAN #00012",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "bafb24c12b931759f65e66a7cae3e96af6a54eea8f81ee6664f8e17dcf1c9251",
+    "metadata_link": "https://arweave.net/Drx3vRlF0xBwKfqp3cXT9-o1nX7c_F4D1yBVBwC4ImY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "12": {
+    "name": "$CHICKEN MAN #00013",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "66bfffa54aeb4fe830ed15bd728ca3f050539d0b5e27f06eb4924a34791965a5",
+    "metadata_link": "https://arweave.net/0SNrJaq7SgUL_s4TchrhMts1pFaSRWcUDRdV0djp9ng",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "13": {
+    "name": "$CHICKEN MAN #00014",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6498b4d2e4fa9b415e913e17f135800ce89d5dca03509bff4c5fe1a23319a0e2",
+    "metadata_link": "https://arweave.net/hl1OSnE9PkKoB7RsHsoR2HqbgJsehCs0FtlA2hHzpXY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "14": {
+    "name": "$CHICKEN MAN #00015",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "bb29c2f243be569d679436e4211be7aa1b869bac4dc5dd1e036d6e8cfec410b4",
+    "metadata_link": "https://arweave.net/UKbCjRVhk-cKyxw3Apb97E9pCsoAY7nGMuMX0Y2H6KE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "15": {
+    "name": "$CHICKEN MAN #00016",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "87ee3f6f07ac60d72db5cd7c523f7a7dea034f8b8e3320ee1b9986e41dbbe0ad",
+    "metadata_link": "https://arweave.net/AQNpKk9443gulW8JOSblPBZfDJ3mhKaQiRY109Gtle4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "16": {
+    "name": "$CHICKEN MAN #00017",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e21aab74e4588d26aebd88c0897427f3714b5b9caefc5ffd75d27aaf8f466790",
+    "metadata_link": "https://arweave.net/JS1rcGQl3LJi3JsaBKlkpDexD3bRHn-sg8Ggmki5iq4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "17": {
+    "name": "$CHICKEN MAN #00018",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6ae5a7c584d227b71700bd16f1f448a83816633ba18f302c49130d9e02f8b76f",
+    "metadata_link": "https://arweave.net/RmfxhsasneN7lLpwiddU-DyM0y0a0rJ0pNKvK_rF_Oc",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "18": {
+    "name": "$CHICKEN MAN #00019",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "36852a5f39502c9051e31b31854bc0386322c3bae158839179ced376a5f8154f",
+    "metadata_link": "https://arweave.net/YbsxbOdj2abcQIpEmZUIeFnsmc34nWo6ZF1ApseVkqo",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "19": {
+    "name": "$CHICKEN MAN #00020",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e7435506c79ab06b38176f52414203043e4e088285de5f942cec008e7bc96ee5",
+    "metadata_link": "https://arweave.net/6xY2PAEWTo_6XjLeB2iIpLVEQGgYDQFt_KgX5ZidG6k",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "20": {
+    "name": "$CHICKEN MAN #00021",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "4536e2825b50f863ecfc2d34516c5270204f93c0056b0e944ad0bf3ef8ddcab1",
+    "metadata_link": "https://arweave.net/IpXBq4omMjHG2gJdcDMdqkz8wG8G03gWYMmw-mqYdI8",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "21": {
+    "name": "$CHICKEN MAN #00022",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "879ba20a0f9fbddcc1f99dc94c07d29baec87b259fc2c4e4c89c7077ef8c1c78",
+    "metadata_link": "https://arweave.net/IfZH0IJnU8x2hRZiVJtwI4rrmxU5yYEzI2d8jIA-DA4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "22": {
+    "name": "$CHICKEN MAN #00023",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "7cd1cbb6093a46e7a50e74783fe728119a7b34be059ef3fe14efd1ad47ed5bc3",
+    "metadata_link": "https://arweave.net/gkecQ5JFbOF_B7020CCt7tve-zAMB7HA-mfCU4ITxPA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "23": {
+    "name": "$CHICKEN MAN #00024",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "768e07a95f35c1c217275fc36bd6c501159229533049e3564719a956341d531d",
+    "metadata_link": "https://arweave.net/xTE2OgAVpEWNF_Dtv7hCF5XLV73SvkvmdHHNb5WTyL4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "24": {
+    "name": "$CHICKEN MAN #00025",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "3a9526f2d7128c9f586996f3d10465803fce4ae3d4cc20fae0d57f346423a654",
+    "metadata_link": "https://arweave.net/jiACzrtJZ7yUrNIS4bTtD5SYh0D5LxUcIz2OH9CorvA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "25": {
+    "name": "$CHICKEN MAN #00026",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "4c4422190059fae52e73d20e67d1eca316076bc4e3b283a468da31fae69e509a",
+    "metadata_link": "https://arweave.net/phl1QObVUOpCTNEzanuFJzYUjBMdKYlmYLIGeoBTowE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "26": {
+    "name": "$CHICKEN MAN #00027",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "015a43862ae87aef50dd64c26fb2d70a533c1ffa93525bc8466a1fcf408a5cfb",
+    "metadata_link": "https://arweave.net/66QrusOBoo72TDP9oqjKV-9Z0B5Y5iwi2vvWfGVU7ew",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "27": {
+    "name": "$CHICKEN MAN #00028",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "0403c46ecd7bd1babbe9286722b23f173315dba7156fb07fc3315d75666b6008",
+    "metadata_link": "https://arweave.net/5ywZLJwvAvIZ0inMmPf2yWrQaehX2xLCkpXuU-hQXuE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "28": {
+    "name": "$CHICKEN MAN #00029",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "82d96a63118b5bc28afbc6adb9d492c831c98d9e3b0fc0867ac3ee0e7673dfbd",
+    "metadata_link": "https://arweave.net/gMTFLx6mlONLaB6CdznHoDIXTOLsoGi15jtGnLf0jWk",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "29": {
+    "name": "$CHICKEN MAN #00030",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "d85480d1fe52bcea9c4f5861145ea6e85f2dbe3750428fa01ebc40e95f7e6d5d",
+    "metadata_link": "https://arweave.net/xrRRwsPKi3epBVfjgdZqDvc1dl7WhHaliGpJcdW48zM",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "30": {
+    "name": "$CHICKEN MAN #00031",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "a3b4610620f83e9860b442b71df19a7044dfc97869eded45e16c2b8e38f3394c",
+    "metadata_link": "https://arweave.net/px2nGsb1OjFn7k0j69BHVcL8MF4yXJYAkVLBpAXg06E",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "31": {
+    "name": "$CHICKEN MAN #00032",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "25e8d7edb1c74f01729c2395e094e7a87f2e067e3374f1596015415958d738ef",
+    "metadata_link": "https://arweave.net/9tyvECYVVoLyJt6LSs7DU2MpUXzDwzU2hCfVgghGnsI",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "32": {
+    "name": "$CHICKEN MAN #00033",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "50c7c26ceba9419c85396403e4a4c94a9781ef7a94c9d06dc50a388059a9c58a",
+    "metadata_link": "https://arweave.net/fY9qQoG1sWXFX7JXHrnNhSwKfNysuLUHshSGFBmKg3g",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "33": {
+    "name": "$CHICKEN MAN #00034",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "7b44d144c293a0717787a2914ef889692bd75a61df99c0aaf8fee448675ae767",
+    "metadata_link": "https://arweave.net/lCursBjLYi-BZ-BH--O8iHABSsI5wrHCsZaCqkkrMeI",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "34": {
+    "name": "$CHICKEN MAN #00035",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "692382fd44f29ea403ff6590cd64a0b38c44abb1b62b537b27ff682af80cea8d",
+    "metadata_link": "https://arweave.net/tOP9E0ARgmXcxTgMpOu5yHabXWcKIm_KXkVj3___PMQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "35": {
+    "name": "$CHICKEN MAN #00036",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "c00d6dadea46f92883018b19fa3f09935db36f60ee4afb471cab04065a7e6e97",
+    "metadata_link": "https://arweave.net/XQNywYtQb_FoyRa9qdDx9C5NSv8B0HffOIziS1KtgYg",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "36": {
+    "name": "$CHICKEN MAN #00037",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "ee2f0f47d270b488a95cc6851dd28b56f7bacd018af4d532aae48de302512471",
+    "metadata_link": "https://arweave.net/uHV5EYSqlZXlRZnBH0ozx9o8QlU-XdkpkXB_nX1PVoc",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "37": {
+    "name": "$CHICKEN MAN #00038",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "424c3700f41fe25dbe061b6b67c1c082867a063648096972cb57559c73f25f87",
+    "metadata_link": "https://arweave.net/UhB1KV_bHcWWvuHLBK06MGVSfyIk-IHTmEAPJ50uYHs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "38": {
+    "name": "$CHICKEN MAN #00039",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "7edc6802d3a41191df549e9fc529eecf8b6d1d9ad2db015a273950b6e4e5bd53",
+    "metadata_link": "https://arweave.net/6LpirXqbWq81bHgI7NuT5JjlHOQW1sMI-Es-mCVuVpE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "39": {
+    "name": "$CHICKEN MAN #00040",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "413b047dfac0f4add3d53f4f5706b8ffc7304595ddd8ce1ee3b173aa1751e41e",
+    "metadata_link": "https://arweave.net/Nlj0LRY__QZX3M_BjQpqc4XKkIuOWPiI8ZAN5jdnyrQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "40": {
+    "name": "$CHICKEN MAN #00041",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e4193e1faac22030c63be863db8825aad4e12dd4d2c43438a87ae238a47d6108",
+    "metadata_link": "https://arweave.net/5YB9aiBilh7i1vv6_GwVMygIqBF8G0NfkpuplzcSy7U",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "41": {
+    "name": "$CHICKEN MAN #00042",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "5588f2d2d7f7c44aff87ba49dd8449f63483d859dd6de68eeb6ee2ddfeeaca8c",
+    "metadata_link": "https://arweave.net/jzAZtMwPuVnfiiHkl0s4N-qp385CixgZScZNz1D_qVg",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "42": {
+    "name": "$CHICKEN MAN #00043",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "b2f7cc0256e480260516497f21ad69fd06084ee23c2d7ac78a07cb3c4068d747",
+    "metadata_link": "https://arweave.net/uVIcca48PmVrplucNSM0rZ96UL-dsg_YBLhgQ-rSHxs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "43": {
+    "name": "$CHICKEN MAN #00044",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "c1ea1b80328c0cbd1008c314bc585cf2ddda3b6cf9e27f1308386c39bd0a854d",
+    "metadata_link": "https://arweave.net/wAEgvg8airPi_vn79xDUceZwqKTov2LIHpdfzzFxcCQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "44": {
+    "name": "$CHICKEN MAN #00045",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "de111a0ba9bf2c161f881ec7a41b7c09d9374beb6c10da1f629fa088b13135a8",
+    "metadata_link": "https://arweave.net/kzsz0zKpe40jEO8ICey7tNKjdoXPk-MQW7RIv-uZZ-w",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "45": {
+    "name": "$CHICKEN MAN #00046",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "4f41f97b1b2cca35361a0fb25851256d78efa238836f3864f8824571d6416b04",
+    "metadata_link": "https://arweave.net/HJq-AsdUL3gENhApN2bX4aOZDKtUMYMm6wKEgSH6CMI",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "46": {
+    "name": "$CHICKEN MAN #00047",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "39ad97e24c5347008426a82d7706050543f9410c8eaea3c980cd10d50fa572d0",
+    "metadata_link": "https://arweave.net/6MoATXZd-jW1wea3DihGfmeVGHgKI6GFaEcYO_f4xhc",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "47": {
+    "name": "$CHICKEN MAN #00048",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "d31febb27c5f76adee7d992e6453f96599b7d49bc5e9f3875e9380064301b87a",
+    "metadata_link": "https://arweave.net/GlNzctSk3CNndJDlMRelJC046H8SC1B1xGRuKjJ56hA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "48": {
+    "name": "$CHICKEN MAN #00049",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "37000c8a4911714bbfdf26a0613f97b3230897a3ed2a10fdb1ea37ae0bbd45a1",
+    "metadata_link": "https://arweave.net/Dz7q-LBrZiZU6OPOZahmm04HgyD3SBB1eVr1In4HsuM",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "49": {
+    "name": "$CHICKEN MAN #00050",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "832c47d3e57ba195f71705110870738dc8df373851e1aef301fa74ae8636eb0f",
+    "metadata_link": "https://arweave.net/tEEZC-4bdja2tGj0Bp6S5fGJjEhPzDow8X78PZ7kokQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "50": {
+    "name": "$CHICKEN MAN #00051",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "fd3b42435dbc011f5717abebe7e3bddce4043c5c163fa44414a0e26aeff96cfa",
+    "metadata_link": "https://arweave.net/ZBQGTcV1AP06--EYz2B261etN5Coe4-gfEElD9GQ-f0",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "51": {
+    "name": "$CHICKEN MAN #00052",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "cb4c93f9e5cf5c2759b7d6c3fead89401517c17515de0ed92656415552bb246f",
+    "metadata_link": "https://arweave.net/jrWGIWfJAPxgHrh2j6VbkJ06XFqbZxilLRhrMHL4-dE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "52": {
+    "name": "$CHICKEN MAN #00053",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "c5294db5d528f08218af98ef9f84e73c55d7840890f97ba0c0e923faf5a65533",
+    "metadata_link": "https://arweave.net/UU2POVjhFz4G3cQsId-L3fU1i3uOQ2wdl1-eBUny2iA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "53": {
+    "name": "$CHICKEN MAN #00054",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "bede53ed64ebf4ab6aea0f83948ef22dde712e431f9db5d5ee1172d3fad16f08",
+    "metadata_link": "https://arweave.net/T7M8_S6hQCXssy4s-6BcOsskCN-mBjGa7Z79CeDuRik",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "54": {
+    "name": "$CHICKEN MAN #00055",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6b48f470ae0ee2e6f2531938d9316f268bd0c8945b93135e3d0dd65fe18aea85",
+    "metadata_link": "https://arweave.net/2Qbsd49SBoJEMhZLIHWQtYEDUE3iEarUM4Nyq8y7BsE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "55": {
+    "name": "$CHICKEN MAN #00056",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "76584906b84f70a73d6e14d726dfe7d64e9e7c32852ded5ae606660abc1028e4",
+    "metadata_link": "https://arweave.net/BwE9fOpP1AIP8UkjyPfBxel9rVhyzxFzyxccQx_fV9E",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "56": {
+    "name": "$CHICKEN MAN #00057",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "908379aae1b610b20a01069a34ecbdea6c34af5bacaefb8ba09426b9a1512b49",
+    "metadata_link": "https://arweave.net/kUgW7mEW4DBjw4BEOA5D4Azjdd_rsJxFS2okl7IPNGE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "57": {
+    "name": "$CHICKEN MAN #00058",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "d0b9e983370f99cd6459e0b75716c92f40dbb60a49cb44cfec0801524901d46f",
+    "metadata_link": "https://arweave.net/mjy8ps3ml_Uyclp2Z5HGVMUeVz-j9P5gBIRlzSJ2-Xs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "58": {
+    "name": "$CHICKEN MAN #00059",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "068dc6a2237d2ef645f17e58a83605b1030719c575fa7ca3a9be5ea2650f5786",
+    "metadata_link": "https://arweave.net/_6F0Ls0pA-aOJVCEberffM_3bipFbCC3UFHDrcXCAtQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "59": {
+    "name": "$CHICKEN MAN #00060",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "ea470218b2a891d85ce0c068b3d8384b7048c85a33b171f4d0077146e1408400",
+    "metadata_link": "https://arweave.net/kKta_HQH7ChYiRNJWvQRmqlcuXgbud7R5FveyoAdIvk",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "60": {
+    "name": "$CHICKEN MAN #00061",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6edb3a79cbbd427bc0131a77d0dd0b0f1a38f9ab7fce4ce18145fb455444cca2",
+    "metadata_link": "https://arweave.net/dndMEIYdcHtiEhNvvFbmLKTnx9mSN0aAmbeLAZjVRgU",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "61": {
+    "name": "$CHICKEN MAN #00062",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "0d0ad37b531db5974eb2bfad6877cfe9ea2c028c92f0b55b564363b191576b4b",
+    "metadata_link": "https://arweave.net/85gKelteaMEkcx55Xmfpy61SkI7pMPQH9STGhKmtU5E",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "62": {
+    "name": "$CHICKEN MAN #00063",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "1e80f070039784c6e088c61acc8e6239038f4c594f445f707524fa2595c22b41",
+    "metadata_link": "https://arweave.net/APiom6HophYCwecoWYUKWT3wuejzkYkvZZfbpNJLgpA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "63": {
+    "name": "$CHICKEN MAN #00064",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e1248201f217300d09f3c681cd1a49e5a530acbe9ed3e6ef23fc78fc0b109208",
+    "metadata_link": "https://arweave.net/krFHjULlc_8IZBImEpmoi8AgLJHFU430lV1_G2lICHg",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "64": {
+    "name": "$CHICKEN MAN #00065",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "28f10427bc87929f1016467f532bf0bdf03eb9042af55d2da8f50c97bbca45b7",
+    "metadata_link": "https://arweave.net/5YJg1yOQHd7C4xCCo5EEmPJ-BHsGYESQZLPBDdEEat4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "65": {
+    "name": "$CHICKEN MAN #00066",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "8c47b702b3fcceda93a5479cd11e83adad786fffa8c34eddeb90bee072ba5b42",
+    "metadata_link": "https://arweave.net/wunV4Km2GPXCUTbSBQw8i2c-UTW6jtwwe-Z4yec62cs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "66": {
+    "name": "$CHICKEN MAN #00067",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "eaa8ea009294cf39cc55eb4b611bc47fad54cfc8ee48843d9bfdfea348b3ed4f",
+    "metadata_link": "https://arweave.net/mA3d0O4C3OPEnlA9mlzq-NCYg6zwKjFGLzEjATGDt0g",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "67": {
+    "name": "$CHICKEN MAN #00068",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "79f57f199ff6537be6efe4599bee2dddbe517e1cd1b4a95a5282888bb53a41bf",
+    "metadata_link": "https://arweave.net/7Wb4WmiQzfmsDQoDNAq9h4BYOeFFE2QlsYI4foZteDY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "68": {
+    "name": "$CHICKEN MAN #00069",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "454c8acedad1563ab0f12af7d97d7fb45f235c2869cf0fc3ecb63eb29a71acf7",
+    "metadata_link": "https://arweave.net/jXhNiEQ84QsLj-pgXklG7TSlV1fOIeHIyfAMrPoBtWY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "69": {
+    "name": "$CHICKEN MAN #00070",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6c710d3402b43ee7849332ca32570ce5813c0cd84e17f814b16d8e08e7769096",
+    "metadata_link": "https://arweave.net/gWI79KMdvMOhGTweHePvuGml8JSuL_Y-D-AQYzTnmiA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "70": {
+    "name": "$CHICKEN MAN #00071",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "5afe5133ca06af9326e0652df56a4e917e30ddeec462fc70dfd20784bb7f9cbd",
+    "metadata_link": "https://arweave.net/Haqu9Sr-Sz0ulzAR2POkVWA2KQ-ZDMuSQ6qKKtBrfRE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "71": {
+    "name": "$CHICKEN MAN #00072",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "39baff96b6ceba1a34b76ab16d48c562b84d91e46fa19c435f96f024530adab1",
+    "metadata_link": "https://arweave.net/og0w8pfktespL8cboFH1_waAf9MkpGkQ1EROpQ4MJ0k",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "72": {
+    "name": "$CHICKEN MAN #00073",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "90b1bf13f023f1946f498b99fc5319ba90f0f9749226c51cd45569e2605ec6b1",
+    "metadata_link": "https://arweave.net/WGrGiWEgmEAhBt14LBov01uGAAMsPPKUC_3SgUDWiHA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "73": {
+    "name": "$CHICKEN MAN #00074",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "2528e620351ae59243e2b78b773ba3bd9815ff805794b87c87dbecdbcaae2379",
+    "metadata_link": "https://arweave.net/A7LzK3HeE1MJM45frr1NMlKtBlsXQyHXU2RNph3PsTM",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "74": {
+    "name": "$CHICKEN MAN #00075",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "91d91fb1bcac16d9b65f4ae63ca638c9e54f762f1ff4df13c2d91502dacad81e",
+    "metadata_link": "https://arweave.net/A1yqg2h_JW2zjQy8IqDURwalSD76L_UoetVKFKlLQNo",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "75": {
+    "name": "$CHICKEN MAN #00076",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "21e9ed7aa1a5ad0db349bf3a12ad8207b977c2b64ce94a40c444c2b9dec70383",
+    "metadata_link": "https://arweave.net/TfSwES-MKOd4tK1HdcP3_C7foJSUoKy3PahN_rTjac4",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "76": {
+    "name": "$CHICKEN MAN #00077",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "e7106b0cd22ce492f3e683c8858f7ab1b61cd2cc9f50c360d45e30154f459f8a",
+    "metadata_link": "https://arweave.net/b6HLf3_iS4eIZzfNQz16Vsw6XoYkCidRC8qZEaVQ8BA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "77": {
+    "name": "$CHICKEN MAN #00078",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "36c2eacd92035e42254016bdc72045d6b9ffff7b3f6941663b1616d24f1297c3",
+    "metadata_link": "https://arweave.net/u78RYElu1noFGpvxBuGO_Ivxn_4aQf4Kz7zo9Ys8ShQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "78": {
+    "name": "$CHICKEN MAN #00079",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "0b086a4a7a99d97e4c1d689c9e07ca1c5201e778edccaa30bc2ad35ff0756bc0",
+    "metadata_link": "https://arweave.net/bV5UAKj_HB1CfMdHqkUHTijD3Eg6s8NFZByEcWsKPQs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "79": {
+    "name": "$CHICKEN MAN #00080",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "c8c273fe847fcc0ff754780a22ef653d91d56ef1fa0658a0e470f9b4da2abbad",
+    "metadata_link": "https://arweave.net/wc1LH4Dj3EF_-Mwex9kj8Ic54ghZ4u0Zuphlr8RhsHw",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "80": {
+    "name": "$CHICKEN MAN #00081",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "7a461786f2ddcbb801dadb68922fd729c7a4ab9f77facda85dac09848031975e",
+    "metadata_link": "https://arweave.net/FSSSOWmPPp5QtrKHM1c6LKguejYfK6MSVrgOJMD1TJE",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "81": {
+    "name": "$CHICKEN MAN #00082",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "7c967282ed692604f9651bdf7069f3f23ba8f1b75edde674d9d09559b6519b65",
+    "metadata_link": "https://arweave.net/Qsv-HqfPVyrx6_Apsz57tKEqm6QZ323qoURMC0oyYbA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "82": {
+    "name": "$CHICKEN MAN #00083",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "9f49581aa34fa4a1e1934ef7ffd392595e1dbc87c6e741855e129df4dda55539",
+    "metadata_link": "https://arweave.net/ubXwCPT3us2iLJ84tx3uKN9jNVeLeKMNd11zU3pH3ZY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "83": {
+    "name": "$CHICKEN MAN #00084",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "6d180ef83113ef18ae661d2ced6e8e5c865cd45051f74dd6cc663ed24b56cc28",
+    "metadata_link": "https://arweave.net/6inHdeViKlYGvLIVp89XzBQUweT01NcdQL4NgpeP-4Y",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "84": {
+    "name": "$CHICKEN MAN #00085",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "06bdc1130393ba1a3735e8f882781c687105accd4fb2fa2216afe70d055e3772",
+    "metadata_link": "https://arweave.net/Vmap6AOenYK0_IqWUY0ayUxZqQZWlizRfxIziCuFMqA",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "85": {
+    "name": "$CHICKEN MAN #00086",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "a3cb7dac74fa0c36896f5f4219bcb8fdae08b6e2fb9bc091798f3c3351caefcf",
+    "metadata_link": "https://arweave.net/nHRUGMNjt5v058qw3ueligYCJQflMzi2HXtUVB6v29M",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "86": {
+    "name": "$CHICKEN MAN #00087",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "f7ac0ea9558b0e67964f34457202bfc477fabeb4ed260dec9502e8377a45a82b",
+    "metadata_link": "https://arweave.net/I0Hp_Bg0I7umuv1eljUXaPX8J5FxhYiHcxa4CncT4xM",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "87": {
+    "name": "$CHICKEN MAN #00088",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "d2adeffc3d1b3b8ffd6a118f78ad2858cae57e4a8b6e76583b8151a94f583270",
+    "metadata_link": "https://arweave.net/RfSj83PJeYvQkR98R4eteHE-ExAtmgG_YbNmEJ190ZY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "88": {
+    "name": "$CHICKEN MAN #00089",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "003a69c4767998d82b82e195bd753d343203a567f2441e643df43892fb26aefe",
+    "metadata_link": "https://arweave.net/eBlU2IH-OUP2uU7doePidQz6ojN9-jnukZ7BtXwlF7U",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "89": {
+    "name": "$CHICKEN MAN #00090",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "3f4172fcb4a230d9d8ceb3694103a94d4d8a677b565dd1961bc6bd58278ff352",
+    "metadata_link": "https://arweave.net/QHpIlytJTAxAvsk85zFF5tkFno4dx2cGFEbJmM46IX8",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "90": {
+    "name": "$CHICKEN MAN #00091",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "df0d221921001092a8201b0503a9ed83bd3341730e9ff71544756d90bb071ec9",
+    "metadata_link": "https://arweave.net/4YJTCehqgv03evqE1Q4Jm1_btSNPxZR6ypDJweBqk10",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "91": {
+    "name": "$CHICKEN MAN #00092",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "df7d37c974a4c2d240019f6a67916e672f225d5a618240655bbdf80c03d6dc6d",
+    "metadata_link": "https://arweave.net/9pPU6etJYvXgZS1TjMuzHViDk9jJD1_yM-DFQ-4LSbs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "92": {
+    "name": "$CHICKEN MAN #00093",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "8abbeda9349ca5aff5e56e7cc207a0b685f635cae0aca958a1c52dd7fe59cd72",
+    "metadata_link": "https://arweave.net/-U2seXwNU3Ar_w8kPT4qBx8VZee0Q7F6EbrisHVpf58",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "93": {
+    "name": "$CHICKEN MAN #00094",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "ca3d4654b01830d5451a62ff12fcfd36508b5aa61028bc31213b6fa63627fd28",
+    "metadata_link": "https://arweave.net/Clh5HZLc7HieCYnrPcKPAc03kDXfe71F1zd-nmkjgCI",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "94": {
+    "name": "$CHICKEN MAN #00095",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "4433828b66d561a1fe6681fea825fce72e3f30758b29cda05c361099a3928282",
+    "metadata_link": "https://arweave.net/j35rcoitb4XkdgNvkaM0qEBa4NNhXU3yIUqzkMdP1OQ",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "95": {
+    "name": "$CHICKEN MAN #00096",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "332d5ae6d6f5ebe26be259104de2f96218a526189eadfe4740fa480a5f5bbdd1",
+    "metadata_link": "https://arweave.net/ohWllAl21nwXkeU8cp6qhoZ-HjMn-6mEUnAdy7IPxB0",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "96": {
+    "name": "$CHICKEN MAN #00097",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "41997881b9862a7d2ee7210da84075b30a5fb13260f0f2840e8e6c4d57b690ec",
+    "metadata_link": "https://arweave.net/m30NwOTGtrn7e0nFpSW1DiwJoAxHgRyw86340bzo2mg",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "97": {
+    "name": "$CHICKEN MAN #00098",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "65ef36d74545739d8adc701cf3a50fd882ad0249a0352fe99f4cad5f40c1a04b",
+    "metadata_link": "https://arweave.net/cc4j1UIZU7jyRpjNjGSn4kbzAANfsWKx3fzTjbRguVs",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "98": {
+    "name": "$CHICKEN MAN #00099",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "a46adca8d01dee45fa558e9a380812da9a607fcea539ee1269bc8e608dfdc17d",
+    "metadata_link": "https://arweave.net/SVJ1qQD5Tuu3_kP1eGUXMifaDb7fpFRUdxz-c_E44bo",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  },
+  "99": {
+    "name": "$CHICKEN MAN #00100",
+    "image_hash": "0a0553eaf706a3e93ebb77eb30c1c473a335682bcf6ef20d0d80ababdfe196f2",
+    "image_link": "https://bafybeicf6xd73inioboi55ktt65xnetczctjdoamrk3ahitxlqbvce52ie.ipfs.nftstorage.link/?filename=chicken.gif",
+    "metadata_hash": "9f3b141e6d52dfb66622cbb8e423acabd3ed593b42f562f331821ac010ac36bd",
+    "metadata_link": "https://arweave.net/hvo1KC8qCHOoTWRacTfG6qQX3JmkBx9wQO2a4Ih6yDY",
+    "onChain": false,
+    "animation_hash": "3787ef1ac5cec40dbd4dda4020f31ea79a4126b763df3d5c6c563943d4126c46",
+    "animation_link": "https://arweave.net/CuiGVD-kO_UR4zIknBe5ykHu890OIgkqlbPQSUizUUg?ext=mp4"
+  }
+}
