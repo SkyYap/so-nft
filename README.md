@@ -1,3 +1,5 @@
+This repo is more on automating and cleaning the metadata of solana NFT and following the metaplex candy machine v3 standard.
+
 
 ## Install
 ```
